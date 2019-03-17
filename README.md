@@ -20,4 +20,4 @@
 **九、Oracle**
 
 **十、code**
-
+- [Oracle慢了怎么办](https://github.com/aidway/Blog/issues/2)
