@@ -7,7 +7,8 @@
 **三、python**
 
 **四、linux**
-- [cpu](https://github.com/aidway/Blog/issues/1)
+- 性能优化
+  - [cpu](https://github.com/aidway/Blog/issues/1)
 
 **五、hadoop**
 - [Inceptor Sql优化思路](https://github.com/aidway/Blog/issues/3)
