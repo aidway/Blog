@@ -10,7 +10,7 @@
 - 性能优化
   - [cpu](https://github.com/aidway/Blog/issues/1)
 - shell
-  - [while内对外部变量赋值不生效]
+  - [while内对外部变量赋值不生效](https://github.com/aidway/Blog/issues/6)
 
 **五、hadoop**
 - [Inceptor Sql优化思路](https://github.com/aidway/Blog/issues/3)
