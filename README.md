@@ -10,7 +10,7 @@
 - [cpu](https://github.com/aidway/Blog/issues/1)
 
 **五、hadoop**
-- [Inceptor整体优化思路](https://github.com/aidway/Blog/issues/3)
+- [Inceptor Sql优化思路](https://github.com/aidway/Blog/issues/3)
 
 **六、spark**
 
