@@ -22,5 +22,6 @@
 - [Oracle慢了怎么办](https://github.com/aidway/Blog/issues/2)
 - [脚本-预测归档空间被写满所需要的时间](https://github.com/aidway/Blog/issues/4)
 - [脚本-使用线性回归预测表空间增长率](https://github.com/aidway/Blog/issues/5)
+
 **十、code**
 
