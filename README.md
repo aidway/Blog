@@ -23,16 +23,8 @@
 **八、Oracle**
 1. 性能优化
   1. [Oracle慢了怎么办](https://github.com/aidway/Blog/issues/2)
-  1. 等待事件  
-    1. 查询脚本  
-    1. log file sync  
-    1. buffer busy waits  
-    1. db file scatered read  
-    1. db file sequential read  
-    1. direct path read/write temp  
-    1. latch  
-    1. MUTEX:CURSOR:PIN S WAIT ON X  
-2. 运维脚本
+  1. 等待事件
+1. 运维脚本
   1. [脚本-预测归档空间被写满所需要的时间](https://github.com/aidway/Blog/issues/4)
   1. [脚本-使用线性回归预测表空间增长率](https://github.com/aidway/Blog/issues/5)
 
