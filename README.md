@@ -29,7 +29,10 @@
       1. [buffer busy waits](https://github.com/aidway/Blog/issues/10) 
       1. [latch](https://github.com/aidway/Blog/issues/11)  
       1. [cache buffers chains](https://github.com/aidway/Blog/issues/12)
-      1. MUTEX:CURSOR:PIN S WAIT ON X 
+      1. [逻辑读](https://github.com/aidway/Blog/issues/13)
+   1. [执行计划](https://github.com/aidway/Blog/issues/14)
+   1. [硬解析和绑定变量](https://github.com/aidway/Blog/issues/15)
+   1. [降低高水位线](https://github.com/aidway/Blog/issues/16)
 1. 运维脚本
    1. [脚本-预测归档空间被写满所需要的时间](https://github.com/aidway/Blog/issues/4)
    1. [脚本-使用线性回归预测表空间增长率](https://github.com/aidway/Blog/issues/5)
