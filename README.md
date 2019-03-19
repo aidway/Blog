@@ -38,6 +38,7 @@
    1. [索引](https://github.com/aidway/Blog/issues/19)
    1. [锁](https://github.com/aidway/Blog/issues/20)
    1. [统计信息](https://github.com/aidway/Blog/issues/21)
+   1. [AWR](https://github.com/aidway/Blog/issues/22)
 1. 运维脚本
    1. [脚本-预测归档空间被写满所需要的时间](https://github.com/aidway/Blog/issues/4)
    1. [脚本-使用线性回归预测表空间增长率](https://github.com/aidway/Blog/issues/5)
