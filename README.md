@@ -24,7 +24,7 @@
 1. 性能优化
    1. [Oracle慢了怎么办](https://github.com/aidway/Blog/issues/2)
    1. 等待事件
-      1. 查询脚本
+      1. [查询脚本](https://github.com/aidway/Blog/issues/8)
       2. log file sync
       1. buffer busy waits  
       1. db file scatered read  
