@@ -15,7 +15,10 @@
   1. [常用命令](https://github.com/aidway/Blog/issues/7)
 
 **五、hadoop**
-- [Inceptor Sql优化思路](https://github.com/aidway/Blog/issues/3)
+  1. hive
+     1. [Inceptor Sql优化思路](https://github.com/aidway/Blog/issues/3)
+  1. hdfs
+     1. [Hadoop – GC overhead limit exceeded error](https://github.com/aidway/Blog/issues/25)
 
 **六、spark**
 
