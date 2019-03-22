@@ -17,6 +17,7 @@
 **五、hadoop**
   1. hive
      1. [Inceptor Sql优化思路](https://github.com/aidway/Blog/issues/3)
+     1. [通过Rest api监控sql运行时间](https://github.com/aidway/Blog/issues/26)
   1. hdfs
      1. [Hadoop – GC overhead limit exceeded error](https://github.com/aidway/Blog/issues/25)
 
