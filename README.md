@@ -1,6 +1,7 @@
 #### 简介
 
 **一、机器学习**
+1. [特征处理](https://github.com/aidway/Blog/issues/42)
 1. [Logistic回归](https://github.com/aidway/Blog/issues/33)
 1. [决策树](https://github.com/aidway/Blog/issues/40)
 1. [面试题整理](https://github.com/aidway/Blog/issues/23)
