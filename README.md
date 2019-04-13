@@ -4,6 +4,7 @@
 1. [特征处理](https://github.com/aidway/Blog/issues/42)
 1. [Logistic回归](https://github.com/aidway/Blog/issues/33)
 1. [决策树](https://github.com/aidway/Blog/issues/40)
+1. [支持向向量机](https://github.com/aidway/Blog/issues/46)
 1. [面试题整理](https://github.com/aidway/Blog/issues/23)
 
 **二、kaggle**
