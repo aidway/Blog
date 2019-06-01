@@ -13,6 +13,8 @@
 **二、kaggle**
 
 **三、python**
+1. [迭代器与生成器](https://github.com/aidway/Blog/issues/62)
+
 
 **四、linux**
 - 性能优化
