@@ -14,6 +14,7 @@
 
 **三、python**
 1. [迭代器与生成器](https://github.com/aidway/Blog/issues/62)
+1. [pandas与大数据](https://github.com/aidway/Blog/issues/64)
 
 
 **四、linux**
